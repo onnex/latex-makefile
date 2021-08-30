@@ -1,5 +1,5 @@
 # latex-makefile
-Latex makefile used in the bachelor's / master thesis writing process
+Latex makefile used in the bachelor's / master thesis writing process. Inspired by https://scaron.info/blog/makefiles-for-latex.html
 
 Dependencies (as far as I remember, some may be part of some other package listed):
 * (pdf)latex, e.g. texlive
