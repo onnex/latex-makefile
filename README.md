@@ -12,6 +12,6 @@ Dependencies (as far as I remember, some may be part of some other package liste
 Usage:
 * `make all` -- build with rubber
 * `make compat` -- build with pdflatex
-* `make watch` -- build with latexmk and watch for changes. Preferably run in separate terminal, running in background e.g. in same terminal as vim may not work correctly
+* `make watch` -- build with latexmk and watch for changes (every time .tex-files are written to with e.g. vim's :w). Preferably run in separate terminal, running in background e.g. in same terminal as vim may not work correctly
 * `make wordcount` or `make wc` -- count words from latest build (does not call build process)
 * `make wcs` -- short version of the above, print only total word count
